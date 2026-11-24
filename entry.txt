@@ -1,0 +1,1 @@
+My agent read the task, nodded confidently, called the wrong tool three times, apologized twice, and filed a cheerful summary of the meeting that never happened.
